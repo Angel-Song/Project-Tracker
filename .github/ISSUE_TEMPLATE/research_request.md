@@ -1,5 +1,6 @@
 ---
 name: Research Request
+about: Core>Deliver Insights Request
 description: Template for submitting research requests
 title: "[Research Request] - [Request Title]"
 labels: research request
