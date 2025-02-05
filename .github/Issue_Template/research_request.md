@@ -1,5 +1,5 @@
 ---
-name: Research Request
+name: New Research Request
 description: Template for submitting research requests
 title: "[Research Request] - [Request Title]"
 labels: research request
