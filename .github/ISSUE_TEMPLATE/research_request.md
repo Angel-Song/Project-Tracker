@@ -12,6 +12,9 @@ _Please provide a title for your request._
 ## Description
 _Please describe the research request in detail._
 
+## Objectives
+_What are the objectives of this research request?_
+
 ## Priority
 _What is the priority of this request? (e.g., High, Medium, Low)_
 
